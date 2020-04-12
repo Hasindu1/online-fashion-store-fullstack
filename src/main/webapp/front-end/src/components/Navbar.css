@@ -1,0 +1,20 @@
+.nav-style{
+    background: black;
+}
+.item{
+    flex:1;
+}
+.heading{
+    flex:2;
+}
+body{
+font-family: 'Montserrat', Helvetica, sans-serif !important;
+}
+
+.search-position{
+    position:relative;
+    bootom:40px;
+}
+.nav-heading-color{
+    color:black ;
+}
